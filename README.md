@@ -1,3 +1,1 @@
-#fashion-mnist
-
-This repository contains deep learning fashion-mnist model trained in Google Colab
+This repository contains deep learning fashion-mnist model trained in Google Colab.
