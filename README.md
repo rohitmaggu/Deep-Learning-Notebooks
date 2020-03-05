@@ -1,2 +1,1 @@
-# DeepLearningNotebooks
-This repository contains deep learning models trained in Google Colab
+This repository contains deep learning fashion-mnist model trained in Google Colab
